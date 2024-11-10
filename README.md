@@ -1,2 +1,2 @@
 # Banking-System
-Welcome to my repository! This repository serves as a central collection for all my projects, ranging across different technologies, languages, and domains. Here, you’ll find everything from small experimental scripts to larger, fully-fledged applications.
+This code implements a basic banking system, where customers can perform various operations such as opening or closing accounts, depositing or withdrawing money, viewing their account details, and checking recent transactions. The main functionalities are implemented in separate functions, with main() serving as the user interface that repeatedly prompts the user for actions until they choose to exit.
